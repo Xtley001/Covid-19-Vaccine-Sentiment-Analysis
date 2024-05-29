@@ -12,11 +12,11 @@ Analyze and visualize sentiment from vaccination-related tweets using various NL
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/vaccination-tweets-sentiment-analysis.git
+    git clone https://github.com/Xtley001/Covid-19-Vaccine-Sentiment-Analysis.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd vaccination-tweets-sentiment-analysis
+    cd Covid-19-Vaccine-Sentiment-Analysis
     ```
 3. Install the required libraries:
     ```bash
@@ -28,7 +28,7 @@ Analyze and visualize sentiment from vaccination-related tweets using various NL
 1. Ensure your dataset (`vaccination_tweets.csv`) is in the project directory.
 2. Run the analysis script:
     ```bash
-    python sentiment_analysis.py
+    python Covid-19-Vaccine-Sentiment-Analysis.py
     ```
 
 ## Example Analysis
